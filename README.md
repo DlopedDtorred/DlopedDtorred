@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Dloped
 
-<!--
-**DlopedDtorred/DlopedDtorred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.  
+I build tools, experiments, and small-scale projects with a focus on simplicity, efficiency, and clean design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ What I Like
+- Minimal and compact tech  
+- Hardware–software hybrid projects  
+- Modern development workflows  
+- Clean, efficient code  
+- Creative experimentation  
+
+---
+
+## 🛠️ Tools & Workflow
+- VS Code  
+- Modern terminals (Warp, Ghostty)  
+- Linux environments  
+- Open‑source ecosystems  
+
+---
+
+## 🌐 What You’ll Find Here
+- Small utilities  
+- Experimental ideas  
+- Open‑source contributions  
+- Personal projects evolving over time  
+
+---
+
+## 📫 Contact
+You can reach me here on GitHub.
+
+---
+
+### ✨ Thanks for visiting
+More things coming soon.
